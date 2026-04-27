@@ -2,7 +2,7 @@
 I am a student pursuing software engineering who want to specialize in back-end engineering :D
 Currently very interested in becoming really good in golang, cloud based applications, system design/architecture, and more to explore in the future 
 
-<sub>I might be cooked because my internship might be a factory worker 💀🥀💔.........</sub>
+<sub>I might be cooked because my internship may be a factory worker 💀🥀💔.........</sub>
 
 ## Tech Stack:
 I would say I am not very good in coding 100% from scratch, I have to do a lot of research, google, and AI (ofc) to review/refresh specific topics again.....
